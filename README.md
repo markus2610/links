@@ -7,3 +7,4 @@ Table of Contents
 * [Backend](backend.md)
 * [Typescript](typescript.md)
 * [VSCode](vscode.md)
+* [Git](git.md)
