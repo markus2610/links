@@ -41,6 +41,7 @@
 ## <a name="basics"></a>Basics
 
 * [TypeScript — Learn the basics](https://medium.com/@wittydeveloper/typescript-learn-the-basics-2f56eb9b02eb)
+* [A Handy Guide to Export and Import Modules for JavaScript and TypeScript](https://medium.com/better-programming/a-handy-guide-to-export-and-import-modules-for-javascript-and-typescript-6cff8e47d554)
 
 ## <a name="types"></a>Types
 

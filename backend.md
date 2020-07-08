@@ -17,6 +17,10 @@
 * [Design Patterns for MongoDB](https://towardsdatascience.com/design-patterns-for-mongodb-894767315905#464d)
 * [How to install Mongo in macOS/Linux with Homebrew](https://tinmankinetics.com/how-to-install-mongo-in-macos-linux-with-homebrew/)
 
+### Mongoose
+
+* [Mongoose’s Model.Populate()](https://medium.com/@nicknauert/mongooses-model-populate-b844ae6d1ee7)
+
 ## <a name="redis"></a>Redis
 
 * [Redis 5.X under the hood: 1 — Redis-Server up and running](https://itnext.io/redis-5-x-under-the-hood-1-downloading-and-installing-redis-locally-3373fe67a154)
