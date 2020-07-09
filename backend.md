@@ -17,6 +17,10 @@
 * [Design Patterns for MongoDB](https://towardsdatascience.com/design-patterns-for-mongodb-894767315905#464d)
 * [How to install Mongo in macOS/Linux with Homebrew](https://tinmankinetics.com/how-to-install-mongo-in-macos-linux-with-homebrew/)
 
+### Stackoverflow
+
+* [Changing the location of mongo db in mac](https://stackoverflow.com/questions/54227925/changing-the-location-of-mongo-db-in-mac)
+
 ### Mongoose
 
 * [Mongoose’s Model.Populate()](https://medium.com/@nicknauert/mongooses-model-populate-b844ae6d1ee7)

@@ -7,6 +7,7 @@
 * [Basics](#basics)
 * [Types](#types)
 * [Generics, Class](#object)
+* [Javascript](#javascript)
 
 
 ## <a name="features"></a>Features
@@ -52,3 +53,8 @@
 
 * [Typescript — Generics, and overloads ](https://medium.com/@wittydeveloper/typescript-generics-and-overloads-999679d121cf)
 * [Typescript Generics Explained](https://medium.com/@rossbulat/typescript-generics-explained-15c6493b510f)
+
+## <a name="javascript"><</a>Javascript
+
+### ES6
+[Named Export vs Default Export in ES6](https://medium.com/@etherealm/named-export-vs-default-export-in-es6-affb483a0910)
