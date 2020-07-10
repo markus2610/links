@@ -49,6 +49,11 @@
 * [Tagged Union Types in TypeScript](https://mariusschulz.com/blog/tagged-union-types-in-typescript)
 * [keyof and Lookup Types in TypeScript](https://mariusschulz.com/blog/keyof-and-lookup-types-in-typescript)
 
+### Literal types
+
+* [Literal Types](https://basarat.gitbook.io/typescript/type-system/literal-types)
+* [String Literal Types in TypeScript](https://mariusschulz.com/blog/string-literal-types-in-typescript)
+
 ## <a name="object"></a>Generics, Class
 
 * [Typescript — Generics, and overloads ](https://medium.com/@wittydeveloper/typescript-generics-and-overloads-999679d121cf)
@@ -57,4 +62,6 @@
 ## <a name="javascript"><</a>Javascript
 
 ### ES6
-[Named Export vs Default Export in ES6](https://medium.com/@etherealm/named-export-vs-default-export-in-es6-affb483a0910)
+* [Named Export vs Default Export in ES6](https://medium.com/@etherealm/named-export-vs-default-export-in-es6-affb483a0910)
+* [Why I've stopped exporting defaults from my JavaScript modules](https://humanwhocodes.com/blog/2019/01/stop-using-default-exports-javascript-module/)
+* [Re-exporting ES6 modules](http://jamesknelson.com/re-exporting-es6-modules/)
