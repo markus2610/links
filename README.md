@@ -5,7 +5,7 @@ Table of Contents
 * [Kotlin](kotlin.md)
 * [CPP](cpp.md)
 * [Backend](backend.md)
-* [Typescript](typescript.md)
+* [Typescript/Javascript](typescript.md)
 * [VSCode](vscode.md)
 * [Git](git.md)
 * [Mac](mac.md)

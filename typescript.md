@@ -60,7 +60,7 @@
 * [Typescript Generics Explained](https://medium.com/@rossbulat/typescript-generics-explained-15c6493b510f)
 
 
-## <a name="javascript"><</a>Javascript
+## <a name="javascript"></a>Javascript
 
 ### ES6
 * [Named Export vs Default Export in ES6](https://medium.com/@etherealm/named-export-vs-default-export-in-es6-affb483a0910)
