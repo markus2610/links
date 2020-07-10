@@ -44,6 +44,10 @@
 * [How to debug a Node.JS REST API in Visual Studio Code locally](https://blogs.sap.com/2019/07/15/how-to-debug-a-node.js-rest-api-in-visual-studio-code-locally/)
 * [You should never ever run directly against Node.js in production. Maybe.](https://www.freecodecamp.org/news/you-should-never-ever-run-directly-against-node-js-in-production-maybe-7fdfaed51ec6/)
 
+### Security
+
+* [NPM security audit ❤️ TeamCity](https://medium.com/@igorshevchenko/npm-security-audit-%EF%B8%8F-teamcity-aa5a959daf3)
+
 ### Testing
 
 * [The Best Testing Tools for Node.js](https://developer.okta.com/blog/2020/01/27/best-nodejs-testing-tools)

@@ -59,9 +59,14 @@
 * [Typescript — Generics, and overloads ](https://medium.com/@wittydeveloper/typescript-generics-and-overloads-999679d121cf)
 * [Typescript Generics Explained](https://medium.com/@rossbulat/typescript-generics-explained-15c6493b510f)
 
+
 ## <a name="javascript"><</a>Javascript
 
 ### ES6
 * [Named Export vs Default Export in ES6](https://medium.com/@etherealm/named-export-vs-default-export-in-es6-affb483a0910)
 * [Why I've stopped exporting defaults from my JavaScript modules](https://humanwhocodes.com/blog/2019/01/stop-using-default-exports-javascript-module/)
 * [Re-exporting ES6 modules](http://jamesknelson.com/re-exporting-es6-modules/)
+
+### Dev Tools
+
+* [JavaScript Obfuscator Tool](https://obfuscator.io)
