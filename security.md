@@ -14,3 +14,5 @@
 
 * [How CORS (Cross-Origin Resource Sharing) Works?](https://medium.com/swlh/how-cors-cross-origin-resource-sharing-works-79f959a84f0e)
 * [CSRF Mitigation for AJAX Requests](https://markitzeroday.com/x-requested-with/cors/2017/06/29/csrf-mitigation-for-ajax-requests.html)
+* [CORS](https://www.securai.de/veroeffentlichungen/blog/was-ist-cors-und-welche-sicherheitsauswirkungen-hat-es-auf-web-applikationen/)
+* [Fetch](https://fetch.spec.whatwg.org/#origin-header)

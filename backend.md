@@ -44,6 +44,24 @@
 * [How to debug a Node.JS REST API in Visual Studio Code locally](https://blogs.sap.com/2019/07/15/how-to-debug-a-node.js-rest-api-in-visual-studio-code-locally/)
 * [You should never ever run directly against Node.js in production. Maybe.](https://www.freecodecamp.org/news/you-should-never-ever-run-directly-against-node-js-in-production-maybe-7fdfaed51ec6/)
 
+### Dev
+
+* [How to kill server when seeing “EADDRINUSE: address already in use”](https://levelup.gitconnected.com/how-to-kill-server-when-seeing-eaddrinuse-address-already-in-use-16c4c4d7fe5d)
+
+### Environment
+
+* [Node.js Everywhere with Environment Variables!](https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786)
+
+
+### Fastify
+
+* [Upload files using multipart with Fastify and NestJS](https://medium.com/@427anuragsharma/upload-files-using-multipart-with-fastify-and-nestjs-3f74aafef331)
+
+### Testing
+
+* [How to Test Your NestJS Application with Jest in 4 Steps](https://blog.theodo.com/2019/06/test-nestjs-with-jest-typescript/)
+* [Unit Testing with NestJS and Jest: A comprehensive tutorial](https://medium.com/@jackallcock97/unit-testing-with-nestjs-and-jest-a-comprehensive-tutorial-464910f6c6ba)
+
 ### Security
 
 * [NPM security audit ❤️ TeamCity](https://medium.com/@igorshevchenko/npm-security-audit-%EF%B8%8F-teamcity-aa5a959daf3)
